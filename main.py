@@ -9,7 +9,7 @@ canvas.title("music player")
 canvas.geometry("600x450")
 canvas.config(bg="black")
 
-rootpath = ".\codeclause"
+rootpath = ".\music_directory"
 pattern = "*.mp3"
 
 mixer.init()
